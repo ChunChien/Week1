@@ -1,2 +1,2 @@
 # php2022
-Week1 homwork
+Week1 homework
